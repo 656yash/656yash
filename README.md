@@ -1,7 +1,7 @@
 # 💫 About Me:
 * 🎓 B.Tech in Information Technology at MITAOE Pune<br>* 📊 Passionate about Data Science, Data Analytics & AI<br>* 🐍 Skilled in Python, SQL, DBMS, and Data Visualization<br>* 💡 Building projects that solve real-world problems<br>* 🌱 Currently learning Data Engineering ,Machine Learning and Power Bi<br>* 🤝 Open to internships, collaborations, and hackathons
 
-![](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnlpejhoMnIyaWUyemZoaXMxYjVncHJ4NmNqbHg0cHFrbnp6cXg2diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif) ![](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3B3b3Y1a3Zqd2M3emdqYWkyaTF2MzdrYTh4ZmI4dTc3YmdzZTg2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Js7KV7VrQDYJagYooE/giphy.gif)
+![](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnlpejhoMnIyaWUyemZoaXMxYjVncHJ4NmNqbHg0cHFrbnp6cXg2diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif)(https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3B3b3Y1a3Zqd2M3emdqYWkyaTF2MzdrYTh4ZmI4dTc3YmdzZTg2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Js7KV7VrQDYJagYooE/giphy.gif)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yashd.me) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yash-deshpande-788a3b326/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/yashd_fx) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yash656deshpande@gmail.com) 
