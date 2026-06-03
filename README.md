@@ -18,10 +18,5 @@
 
 ## 😎 Portfolio and Projects 
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=656yash&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-![](https://komarev.com/ghpvc/?username=656yash)
 
 
