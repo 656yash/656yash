@@ -14,7 +14,7 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=656yash&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=656yash&theme=gruvbox)
+![](https://github-profile-trophy.vercel.app/?username=656yash&theme=flat&row=1&column=6)
 
 ## 😎 Portfolio and Projects 
 
