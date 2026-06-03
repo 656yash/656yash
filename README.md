@@ -1,5 +1,5 @@
 # Hey 👋, I'm Yash Deshpande
-##
+
 About Me 
 - 🎓 B.Tech in Information Technology at MITAOE Pune
 - 📊 Passionate about Data Science, Data Analytics & AI
