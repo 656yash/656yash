@@ -1,5 +1,6 @@
-# 💫 About Me
+# Hey ! I am Yash here..
 
+## 💫 About Me
 - 🎓 B.Tech in Information Technology at MITAOE Pune
 - 📊 Passionate about Data Science, Data Analytics & AI
 - 🐍 Skilled in Python, SQL, DBMS, and Data Visualization
