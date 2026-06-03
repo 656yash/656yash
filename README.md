@@ -16,8 +16,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=656yash&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://i0.wp.com/saurabhwadekar.com/wp-content/uploads/2022/02/ITS-NOT-OVER-TIL-ITS-OVER-e1644489085870.jpg?fit=950%2C704&ssl=1)
+## 😎 Portfolio and Projects 
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=656yash&limit=5&theme=dark&combine_all_yearly_contributions=true)
