@@ -1,8 +1,7 @@
 # 💫 About Me:
 * 🎓 B.Tech in Information Technology at MITAOE Pune<br>* 📊 Passionate about Data Science, Data Analytics & AI<br>* 🐍 Skilled in Python, SQL, DBMS, and Data Visualization<br>* 💡 Building projects that solve real-world problems<br>* 🌱 Currently learning Data Engineering ,Machine Learning and Power Bi<br>* 🤝 Open to internships, collaborations, and hackathons
 
-
-![]https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOThsbnYzaXBna2tkYTIwZ3l4ajduMGtvd29sM3hyY3RqdTg4ZXJ2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif
+![](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOThsbnYzaXBna2tkYTIwZ3l4ajduMGtvd29sM3hyY3RqdTg4ZXJ2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yashd.me) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yash-deshpande-788a3b326/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/yashd_fx) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yash656deshpande@gmail.com) 
